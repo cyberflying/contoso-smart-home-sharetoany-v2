@@ -1,0 +1,38 @@
+{
+  "home": {
+    "title": "Contoso 智能家居",
+    "subtitle": "用 Contoso 改变您的家 - 现代生活的智能体验",
+    "description": "探索我们创新的智能家居产品系列，旨在让您的生活更加舒适、安全和高效。从智能集线器到直观传感器，我们拥有一切您需要的产品，以创造完美的互联家居体验。"
+  },
+  "header": {
+    "home": "首页",
+    "smartHubs": "智能中枢",
+    "security": "安全系统",
+    "lighting": "照明设备",
+    "sensors": "传感器"
+  },
+  "product": {
+    "buyNow": "立即购买",
+    "learnMore": "了解更多",
+    "outOfStock": "缺货",
+    "discount": "优惠11%",
+    "loading": "正在加载..."
+  },
+  "share": {
+    "title": "分享到：",
+    "weibo": "分享到微博",
+    "qq": "分享到QQ",
+    "xiaohongshu": "分享到小红书",
+    "copyLink": "复制链接",
+    "copied": "链接已复制",
+    "xiaohongshuGuide": {
+      "title": "分享到小红书",
+      "step1": "图片已自动下载到您的设备",
+      "step2": "打开小红书 App",
+      "step3": "点击底部\"+\"号，选择\"发笔记\"",
+      "step4": "上传已保存的分享图片",
+      "step5": "添加描述并发布",
+      "button": "我知道了"
+    }
+  }
+}

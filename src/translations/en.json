@@ -1,0 +1,38 @@
+{
+  "home": {
+    "title": "Contoso Smart Home",
+    "subtitle": "Transform Your Home with Contoso - Smart Living for Modern Life",
+    "description": "Discover our innovative range of smart home products designed to make your life more comfortable, secure, and efficient. From intelligent hubs to intuitive sensors, we have everything you need to create the perfect connected home experience."
+  },
+  "header": {
+    "home": "Home",
+    "smartHubs": "Smart Hubs",
+    "security": "Security",
+    "lighting": "Lighting",
+    "sensors": "Sensors"
+  },
+  "product": {
+    "buyNow": "Buy now",
+    "learnMore": "Learn more",
+    "outOfStock": "Out of stock",
+    "discount": "11% off",
+    "loading": "Loading..."
+  },
+  "share": {
+    "title": "Share to:",
+    "weibo": "Share to Weibo",
+    "qq": "Share to QQ",
+    "xiaohongshu": "Share to Xiaohongshu",
+    "copyLink": "Copy Link",
+    "copied": "Link copied",
+    "xiaohongshuGuide": {
+      "title": "Share to Xiaohongshu",
+      "step1": "Image has been downloaded to your device",
+      "step2": "Open Xiaohongshu App",
+      "step3": "Click the \"+\" button and select \"Create Note\"",
+      "step4": "Upload the saved image",
+      "step5": "Add description and publish",
+      "button": "Got it"
+    }
+  }
+}
