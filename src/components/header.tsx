@@ -19,9 +19,9 @@ export const Header = () => {
   }, []);
   
   const user = {
-    name: "Jen Yu",
+    name: "Kevin Yang",
     email: "smart.home@contoso.com",
-    image: "/people/jenyu.jpg",
+    image: "/people/kevin.png",
   };
 
   return (
